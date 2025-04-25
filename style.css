@@ -1,0 +1,21 @@
+    body {
+    background-color: #2b2a33;
+    }
+    /* encabezado */
+    .header {
+        display: inline-block;
+     }
+
+    .header #image{
+        vertical-align: middle;
+    }
+
+    .header h1{
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    #image {
+        height: 15%;
+        width: 15%;
+    }
