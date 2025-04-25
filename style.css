@@ -13,7 +13,13 @@
     }
 
     #image {
-        height: 128px;
-        width: 128px;
+        height: 200px;
+        width: 200px;
+    }
+    #X,#y,#i {
+        color: silver;
+        background-color: black;
+        width: 80px;
+        height: 25px;
     }
     
