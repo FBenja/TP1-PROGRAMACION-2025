@@ -3,6 +3,8 @@
     }
     /* encabezado */
     .header {
+        margin-left: 30%;
+        margin-right: 5px;
         display: inline-block;
      }
 
@@ -10,12 +12,8 @@
         vertical-align: middle;
     }
 
-    .header h1{
-        display: inline-block;
-        margin-right: 10px;
-    }
-
     #image {
-        height: 15%;
-        width: 15%;
+        height: 128px;
+        width: 128px;
     }
+    
