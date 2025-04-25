@@ -2,5 +2,8 @@ body{
     background-color: #2a1506;
 }
 .header {
-    display: inline-block; margin: 20%; margin-top: 15px;"
+    border-style: double;
+    display: inline-block; 
+    margin: 20%;
+     margin-top: 15px;
 }
