@@ -17,3 +17,8 @@ body{
     width: 200px;
     height: 250px;
 }
+#tecnologias #listado{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
