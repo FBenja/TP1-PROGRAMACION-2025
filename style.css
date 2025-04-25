@@ -17,13 +17,13 @@
         width: 200px;
     }
     #X,#y,#i {
-        color: silver;
+        color: gray;
         background-color: black;
         width: 80px;
         height: 25px;
     }
     #outlook {
-        color: silver;
+        color: gray;
         background-color: black;
         width: 365px;
         height: 30px;
