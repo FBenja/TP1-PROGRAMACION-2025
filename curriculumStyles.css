@@ -2,8 +2,18 @@ body{
     background-color: #2a1506;
 }
 .header {
-    border-style: double;
     display: inline-block; 
-    margin: 20%;
-     margin-top: 15px;
+    margin-top: 15px;
+    margin-left: 0%;
+    margin-right: 15px;
+}
+
+#imageCV1 {
+    width: 200px;
+    height: 250px;
+}
+#imageCV {
+    margin-left: 90px;
+    width: 200px;
+    height: 250px;
 }
